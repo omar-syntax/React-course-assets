@@ -1,0 +1,12 @@
+{
+  "name": "react-assets",
+  "version": "1.0.1",
+  "description": "This package contain all React course libraries and assets.",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "chatbot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
